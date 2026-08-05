@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-refactoring-input-validation",
+      "title": "Python Refactoring and Input Validation",
+      "description": "Refactor a Python script into reusable functions and implement safe user input validation.",
+      "path": "assignments/python-refactoring-input-validation",
+      "dueDate": "2026-10-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
